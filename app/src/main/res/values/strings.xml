@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">rMap</string>
+
+    <string name="login_title">כניסה</string>
+    <string name="register_title">הרשמה</string>
+    <string name="hint_user">שם משתמש</string>
+    <string name="hint_pass">סיסמה</string>
+    <string name="hint_confirm">אימות סיסמה</string>
+    <string name="btn_login">כניסה</string>
+    <string name="btn_register">הרשמה</string>
+    <string name="to_register">אין לך חשבון? להרשמה</string>
+    <string name="msg_fill_all">יש למלא את כל השדות</string>
+    <string name="msg_register_first">יש להירשם קודם</string>
+    <string name="msg_login_ok">התחברת בהצלחה</string>
+    <string name="msg_login_bad">שם משתמש או סיסמה שגויים</string>
+    <string name="err_required">שדה חובה</string>
+    <string name="err_short">לפחות 6 תווים</string>
+    <string name="err_mismatch">הסיסמאות אינן זהות</string>
+</resources>
