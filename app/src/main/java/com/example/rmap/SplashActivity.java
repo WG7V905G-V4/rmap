@@ -35,7 +35,6 @@ public class SplashActivity extends AppCompatActivity {
 
         Animation anim = AnimationUtils.loadAnimation(this, R.anim.splash_anim);
         binding.imgLogo.startAnimation(anim);
-        binding.txtName.startAnimation(anim);
 
         new Handler(Looper.getMainLooper()).postDelayed(() -> {
             startActivity(new Intent(this, LoginActivity.class));
